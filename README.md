@@ -9,7 +9,7 @@
 
 <br>
  <a href="https://www.linkedin.com/in/karen-penedo-%F0%9F%8C%88-a24006144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:penedok12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:yonezawa.matheus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <br>
 
