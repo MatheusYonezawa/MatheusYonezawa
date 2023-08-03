@@ -31,7 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40" height="40" />
 
-![Snake animation](https://github.com/MatheusYonezawa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MatheusYonezawa/MatheusYonezawa/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
