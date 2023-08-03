@@ -1,7 +1,7 @@
 ### Olá! Eu sou O Matheus Akira 
 <br>
-    Desenvolvedora Back-end, me encontrei na área da programação á 1 ano e estou constantemente estudando e aprendendo. <br>
-    Seguindo e buscando o meu melhor todo dia para que eu conquiste os meus objetivos e ser uma grande profissional na área. <br>
+    Desenvolvedora Back-end, me encontrei na área Desenvolvedor Back-end, me encontrei na área de TI quando era mais novo formatando WinXP <br>
+    Aos 11 anos me formei em tecnico e hoje em dia gosto de programar em Java, Python e um pouco de JS
     <br>
     Pergute-me sobre qualquer dúvida nas redes 💬
 
