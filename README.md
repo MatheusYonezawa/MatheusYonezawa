@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus Akira  
 
-<div class="tenor-gif-embed" data-postid="17462928" data-share-method="host" data-aspect-ratio="1.06667" data-width="100%"><a href="https://tenor.com/view/hi-vocaloid-gumi-wave-chibi-gif-17462928">Hi Vocaloid Sticker</a>from <a href="https://tenor.com/search/hi-stickers">Hi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src= "https://tenor.com/pt-BR/view/hi-vocaloid-gumi-wave-chibi-gif-17462928" width="40" height="40" />
 <br>
     Desenvolvedora Back-end, me encontrei na área Desenvolvedor Back-end, me encontrei na área de TI quando era mais novo formatando WinXP <br>
     Aos 11 anos me formei em tecnico e hoje em dia gosto de programar em Java, Python
