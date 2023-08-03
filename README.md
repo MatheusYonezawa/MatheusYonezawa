@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus Akira  
 
-<img src= "https://tenor.com/pt-BR/view/hi-vocaloid-gumi-wave-chibi-gif-17462928" width="40" height="40" />
+<img src= "https://tenor.com/pt-BR/view/hi-vocaloid-gumi-wave-chibi-gif-17462928" width="100" height="100" />
 <br>
     Desenvolvedora Back-end, me encontrei na área Desenvolvedor Back-end, me encontrei na área de TI quando era mais novo formatando WinXP <br>
     Aos 11 anos me formei em tecnico e hoje em dia gosto de programar em Java, Python
