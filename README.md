@@ -9,7 +9,7 @@
 
 <div align="center">
 Desenvolvedora Back-end, me encontrei na área de TI quando era mais novo formatando WinXP <br> 
-Há 11 anos me formei em técnico e hoje em dia gosto de programar em Java, Python
+Há 11 anos me formei no técnico e hoje em dia gosto de programar em Java, Python
 <br>
 
 Pergute-me sobre qualquer dúvida nas redes 💬 <br>
