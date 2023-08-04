@@ -1,11 +1,21 @@
-### Olá! Eu sou o Matheus Akira  
 
-<img src= "https://tenor.com/pt-BR/view/hi-vocaloid-gumi-wave-chibi-gif-17462928" width="100" height="100" />
+<div align="center">
+
+### Olá! Eu sou o Matheus Akira 
+
+<img width="200" src="https://media.tenor.com/5iiD6jOOCuAAAAAC/quby-high-five.gif">
+</div>
 <br>
-    Desenvolvedora Back-end, me encontrei na área Desenvolvedor Back-end, me encontrei na área de TI quando era mais novo formatando WinXP <br>
-    Aos 11 anos me formei em tecnico e hoje em dia gosto de programar em Java, Python
-    <br>
-    Pergute-me sobre qualquer dúvida nas redes 💬
+
+<div align="center">
+Desenvolvedora Back-end, me encontrei na área de TI quando era mais novo formatando WinXP <br> 
+Há 11 anos me formei em técnico e hoje em dia gosto de programar em Java, Python
+<br>
+
+Pergute-me sobre qualquer dúvida nas redes 💬 <br>
+<br>
+<img width="100" src="https://media.tenor.com/t7EtpauuodgAAAAC/quby-chan-thumbs-up.gif">
+</div>
 
 <br>
 
